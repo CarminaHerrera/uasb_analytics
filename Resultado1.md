@@ -23,9 +23,11 @@ iteraciones = 10
 
 ## Gráfico del hallazgo 1
 
-1. Rendimiento de Estudiantes
+1. Rendimiento de Estudiantes, cluster
 
 ![Rendimiento de Estudiantes, cluster](https://github.com/CarminaHerrera/uasb_analytics/blob/master/Resultado1.png "Rendimiento de Estudiantes, cluster")
+
+2. Rendimiento de Estudiantes, factores
 
 ![Rendimiento de Estudiantes, factores](https://github.com/CarminaHerrera/uasb_analytics/blob/master/Resultado1.1.png "Rendimiento de Estudiantes, factores")
 
