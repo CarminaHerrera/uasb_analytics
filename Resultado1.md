@@ -21,6 +21,12 @@ Se ejecuto el algoritmo:
 K= 4 
 iteraciones = 10
 
+## Gráfico del hallazgo 1
+
+1. Rendimiento de Estudiantes
+
+![Rendimiento de Estudiantes](https://github.com/CarminaHerrera/uasb_analytics/blob/master/Resultado1.png "Rendimiento de Estudiantes")
+
 ##Conclusion
 
 En el modelo se pudo observar que el rendimiento de los estudiantes baja mientras más es el consumo de alcohol en la semana y debido a la ausencia de los estudiantes. 

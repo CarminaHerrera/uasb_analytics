@@ -15,6 +15,12 @@ Para el estudio de prediccion de un arbol de decision como algoritmo de predicci
 ##Aplicacion
 Se ejecuto el algoritmo en base a las calificaciones finales de curso. 
 
+## Gráfico del hallazgo 1
+
+1. Rendimiento de Estudiantes
+
+![Rendimiento de Estudiantes](https://github.com/CarminaHerrera/uasb_analytics/blob/master/Resultado2.png "Rendimiento de Estudiantes")
+
 ##Conclusion
 
 * En el modelo se pudo observar que el rendimiento de los estudiantes es mayor en aquellos que tiene una edad mayor a 19 tiene un promedio de calificaciones de 15 puntos en las notas finales. Se puede mnres que no tiene internet tiene igual uno de los percentajes más altos de calificacion que aquellos que no tienen internet en su casa 

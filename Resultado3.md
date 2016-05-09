@@ -16,6 +16,12 @@ Para el estudio de prediccion de un arbol de decision como algoritmo de predicci
 ##Aplicacion
 Se ejecuto el algoritmo para predecir el nivel de ausencia en base a la estabilidad familiar, a la escuela a la que pertenen, además de la edad y el sexo. 
 
+## Gráfico del hallazgo 1
+
+1. Ausencia a clase de los Estudiantes
+
+![Ausencia de Estudiantes](https://github.com/CarminaHerrera/uasb_analytics/blob/master/Resultado3.png "Ausencia de Estudiantes")
+
 ##Conclusion
 
 * Se puede observar que la ausencia esta marcada notoriamente por la situación familiar del estudiante, las mujeres con la edad de 18 años tienen mayor probabilidad de ausentismo escolar. 
