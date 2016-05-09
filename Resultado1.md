@@ -26,6 +26,7 @@ iteraciones = 10
 1. Rendimiento de Estudiantes
 
 ![Rendimiento de Estudiantes](https://github.com/CarminaHerrera/uasb_analytics/blob/master/Resultado1.png "Rendimiento de Estudiantes")
+![Rendimiento de Estudiantes](https://github.com/CarminaHerrera/uasb_analytics/blob/master/Resultado1.1.png "Rendimiento de Estudiantes")
 
 ##Conclusion
 
